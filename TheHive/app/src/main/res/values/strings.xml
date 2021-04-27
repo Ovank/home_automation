@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">The Hive</string>
+    <string name="title_activity_room_add">RoomAdd</string>
+    <string name="title_activity_timer">Timer</string>
+</resources>
