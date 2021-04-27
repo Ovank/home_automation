@@ -3,7 +3,7 @@ Project on Home Automation as a part of B.Tech coursework<br>
 The Project uses minimalistic  equipments that can be used to set up a low cost automation system in homes, offices.<br>
 Control switches using an android app.
 # Design of the System
-![Design](diagram.png)
+![alt Design](https://github.com/Ovank/home_automation/blob/master/block%20diagram.png )
 # Hardware 
 The following hardware were used for test the project:
 - A Wifi Router to connect all devices.
